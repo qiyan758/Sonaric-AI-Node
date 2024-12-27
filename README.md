@@ -80,6 +80,12 @@ sonaric node-info
 ```
 如果节点正常运行，您将看到节点信息。
 
+ ✨ Node information loaded:
+ ├─🧊 ID             12D3XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ ├─📥 Leader         wavy-cream-yacht
+ ├─🧊 Version        v1.1.0
+ ...
+
 ### 2. 我可以在多个服务器上运行多个节点吗？
 是的，您可以在多个服务器上安装并注册多个节点，并且所有节点可以在 Sonaric GUI 或 CLI 中集中管理。
 
